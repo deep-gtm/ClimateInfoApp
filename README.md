@@ -5,6 +5,7 @@ Tells about the weather of user location.
 1. How to use chagne UIs according to light and dark mode.
 2. How to use CoreLocation module to get users location coordingate.
 3. Request and parse json response to update UIs.
+4. MVC Desing Pattern
 
 ##### Dark Mode
 
